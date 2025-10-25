@@ -13,7 +13,7 @@
 
 [HW2社團支出記帳系統(Gemini建議)](https://github.com/41371116h/PL-Repo./blob/main/hw2_%E7%A4%BE%E5%9C%98%E6%94%AF%E5%87%BA%E8%A8%98%E5%B8%B3%E7%B3%BB%E7%B5%B1(Gemini%E5%BB%BA%E8%AD%B0_Gradio%E3%80%81google_sheet%E9%83%BD%E6%9C%89).ipynb)
 
-[HW3待辦清單與番茄鐘紀錄(AI Plan)](https://github.com/41371116h/PL-Repo./blob/main/HW3%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84(AI_Plan).ipynb)
+[HW3待辦清單與番茄鐘紀錄(AI Plan)](https://github.com/41371116h/PL-Repo./blob/main/%E3%80%8CHW3%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84(AI_Plan).ipynb)
 
 [HW4含AI摘要 (PTT China-Drama)](https://github.com/41371116h/PL-Repo./blob/main/HW4%E5%90%ABAI%E6%91%98%E8%A6%81_(PTT_China_Drama).ipynb)
 
