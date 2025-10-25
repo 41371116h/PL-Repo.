@@ -15,6 +15,8 @@
 
 [HW3待辦清單與番茄鐘紀錄(AI Plan)](https://github.com/41371116h/PL-Repo./blob/main/HW3%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84(AI_Plan).ipynb)
 
+[HW4含AI摘要 (PTT China-Drama)](
+
 ## 課程筆記區
 
 ## 作業連結區
