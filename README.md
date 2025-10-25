@@ -19,6 +19,8 @@
 
 [HW4爬蟲截圖](https://drive.google.com/file/d/1TI1r3voiPGklqAyk01qUqsqXCsY9p3eH/view?usp=sharing)
 
+[HW4爬蟲截圖](https://drive.google.com/file/d/1d95GMsLb3AMxm5opCNY_ZJcnq4rXh8_7/view?usp=sharing)
+
 ## 課程筆記區
 
 ## 作業連結區
