@@ -17,7 +17,7 @@
 
 [HW4含AI摘要 (PTT China-Drama)](https://github.com/41371116h/PL-Repo./blob/main/HW4%E5%90%ABAI%E6%91%98%E8%A6%81_(PTT_China_Drama).ipynb)
 
-[HW4爬蟲截圖]([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1TI1r3voiPGklqAyk01qUqsqXCsY9p3eH/view?usp=sharing)
+[HW4爬蟲截圖](https://drive.google.com/file/d/1TI1r3voiPGklqAyk01qUqsqXCsY9p3eH/view?usp=sharing)
 
 ## 課程筆記區
 
