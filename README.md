@@ -21,7 +21,7 @@
 
 [HW4爬蟲截圖](https://drive.google.com/file/d/1d95GMsLb3AMxm5opCNY_ZJcnq4rXh8_7/view?usp=sharing)
 
-[HW5診所查詢系統](https://github.com/41371116h/PL-Repo./blob/main/HW5%E8%A8%BA%E6%89%80%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
+[HW5診所查詢系統](https://github.com/41371116h/PL-Repo./blob/main/hw5%E8%A8%BA%E6%89%80%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
 
 ## 課程筆記區
 
