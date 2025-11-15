@@ -23,7 +23,7 @@
 
 [HW5診所查詢系統](https://github.com/41371116h/PL-Repo./blob/main/hw5%E8%A8%BA%E6%89%80%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
 
-[HW6課表查詢系統]()
+[HW6課表查詢系統](https://github.com/41371116h/PL-Repo./blob/main/HW6%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
 
 ## 課程筆記區
 
