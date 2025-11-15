@@ -24,6 +24,8 @@
 [HW5診所查詢系統](https://github.com/41371116h/PL-Repo./blob/main/hw5%E8%A8%BA%E6%89%80%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
 
 [HW6課表查詢系統](https://github.com/41371116h/PL-Repo./blob/main/HW6%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E7%B3%BB%E7%B5%B1.ipynb)
+[HW6 AI建議截圖](https://drive.google.com/file/d/1cgYhjlNmZy_rD_oEHwx1Th8wzBjqHJ3F/view?usp=sharing)
+
 
 ## 課程筆記區
 
